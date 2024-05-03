@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ndivhoniswani Mawelewele
+- 👋 Hi, I’m @Ndivhoniswani Mawelewele your Data Analyst
 - 👀 I’m interested in buiding machine learning models
 - 🌱 I’m currently learning data science  at ALX_Africa with Explore_AI_Academy
 - 💞️ I’m looking to collaborate on machine learning models
